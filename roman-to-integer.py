@@ -39,5 +39,3 @@ class Solution:
             lastRNum = val
             
         return total
-            
-            
